@@ -33,6 +33,9 @@ git clone https://github.com/Saesel/telegram-bot
 # Entre no diretório
 cd telegram-bot
 
+# Instale as dependências
+npm/yarn install
+
 # Execute com Node.js
 node index.js
 ```
