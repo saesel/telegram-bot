@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Projeto desenvolvido pela necessidade pessoal de automatizar o processo de conferir a cotação de determinadas ações e moedas de hora em hora de forma automática. A API utilizada é a de finanças **[brapi](https://brapi.dev/)**. O bot recebe o nome de **Jim Hawkins**, inspirado no personagem da animação **[Treasure Planet](https://en.wikipedia.org/wiki/Treasure_Planet)**.
+Projeto desenvolvido pela necessidade pessoal de automatizar o processo de conferir a cotação de determinadas ações da bolsa brasileira e moedas de hora em hora de forma automática. A API utilizada é a de finanças **[brapi](https://brapi.dev/)**. O bot recebe o nome de **Jim Hawkins**, inspirado no personagem da animação **[Treasure Planet](https://en.wikipedia.org/wiki/Treasure_Planet)**.
 
 ---
 
